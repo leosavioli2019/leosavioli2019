@@ -8,4 +8,4 @@ Leonardo Fuzzo Savioli
 
 -⚡Python, Javascript, Kotlin, Go and PHP
 
--😄Working on languages
+-😄Studing Go
